@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,100:0a7a8a&height=220&text=CRISPIN%20THEOPHANE&fontSize=60&fontColor=fff&fontAlignY=45&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descColor=c8dcff&descSize=16&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,100:0a7a8a&height=220&text=CRISPIN%20THEOPHANE&fontSize=60&fontColor=fff&fontAlignY=45&desc=AI%20and%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descColor=c8dcff&descSize=16&descAlignY=65&animation=fadeIn)
 
 <br/>
 
