@@ -1,19 +1,25 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a3a8f,100:0d2a6b&height=220&section=header&text=CRISPIN%20THEOPHANE&fontSize=55&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ARCHITECT&descSize=15&descColor=c8d8ff&descAlignY=65&descAlign=50&animation=fadeIn"/>
-
-<!-- TYPING LINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=FastAPI+%7C+Django+%7C+React+%7C+OpenVINO+%7C+PostgreSQL;Intel+Unnati+%7C+TCS+BFSI+Garage+%7C+Emertxe;Building+AI-Powered+Products+%26+Intelligent+Systems;2%C3%97+Hackathon+Winner+%7C+Google+Gemini+Ambassador)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:0d2144,70:1a3a8f,100:0d2a6b&height=230&section=header&text=CRISPIN%20THEOPHANE&fontSize=62&fontColor=ffffff&fontAlignY=48&fontAlign=50&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=16&descColor=c8d8ff&descAlignY=68&descAlign=50&animation=fadeIn"/>
 
 <br/>
 
-<!-- STATS ROW -->
-[![followers](https://img.shields.io/github/followers/kip23theo?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=238636)](https://github.com/kip23theo?tab=followers)
-[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkip23theo&query=public_repos&label=REPOS&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=1a3a8f)](https://github.com/kip23theo?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/crispin-theophane)
-[![Gmail](https://img.shields.io/badge/Gmail-EMAIL-f78166?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:crispin.theofficial@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=kip23theo&style=flat-square&color=a371f7&label=PROFILE+VIEWS&labelColor=161b22)](https://github.com/kip23theo)
+<!-- SKILLS LINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=28&lines=Python+%7C+FastAPI+%7C+Django+%7C+React+%7C+PostgreSQL;OpenVINO+%7C+scikit-learn+%7C+MongoDB+%7C+Redis+%7C+Docker)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- STATS + CONTACT ROW -->
+[![followers](https://img.shields.io/github/followers/kip23theo?label=FOLLOWERS&style=flat&logo=github&logoColor=white&labelColor=21262d&color=21262d)](https://github.com/kip23theo?tab=followers)
+[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkip23theo&query=public_repos&label=REPOS&style=flat&logo=github&logoColor=white&labelColor=21262d&color=1a3a8f)](https://github.com/kip23theo?tab=repositories)
+[![Gmail](https://img.shields.io/badge/Gmail-EMAIL-f78166?style=flat&logo=gmail&logoColor=white&labelColor=21262d)](mailto:crispin.theofficial@gmail.com)
+[![Contact](https://img.shields.io/badge/-CONTACT%20ME-0d9488?style=flat&logoColor=white)](mailto:crispin.theofficial@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kip23theo&style=flat&color=a371f7&label=PROFILE+VIEWS&labelColor=21262d)](https://github.com/kip23theo)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-58a6ff?style=flat&logo=linkedin&logoColor=white&labelColor=21262d)](https://www.linkedin.com/in/crispin-theophane)
 
 </div>
 
