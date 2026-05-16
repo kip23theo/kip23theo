@@ -1,0 +1,54 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Main dark-to-teal gradient matching the screenshot -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0a1628"/>
+      <stop offset="35%"  stop-color="#0d2144"/>
+      <stop offset="65%"  stop-color="#0e3a6e"/>
+      <stop offset="100%" stop-color="#0a7a8a"/>
+    </linearGradient>
+
+    <!-- Subtle teal highlight sweep top-right -->
+    <radialGradient id="glowGrad" cx="80%" cy="30%" r="55%">
+      <stop offset="0%"  stop-color="#0fa8c0" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0a1628" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Bottom wave mask -->
+    <clipPath id="waveClip">
+      <path d="M0,0 H1200 V200 Q900,220 600,210 Q300,200 0,220 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bgGrad)" clip-path="url(#waveClip)"/>
+  <rect width="1200" height="220" fill="url(#glowGrad)" clip-path="url(#waveClip)"/>
+
+  <!-- Decorative subtle lines -->
+  <line x1="0" y1="195" x2="1200" y2="195" stroke="#1a6080" stroke-width="0.6" opacity="0.4"/>
+  <line x1="0" y1="200" x2="1200" y2="200" stroke="#0fa8c0" stroke-width="0.4" opacity="0.25"/>
+
+  <!-- MAIN NAME -->
+  <text
+    x="600" y="118"
+    font-family="'Segoe UI', 'Arial Black', sans-serif"
+    font-size="72"
+    font-weight="900"
+    letter-spacing="6"
+    fill="#ffffff"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >CRISPIN THEOPHANE</text>
+
+  <!-- SUBTITLE -->
+  <text
+    x="600" y="162"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="18"
+    font-weight="400"
+    letter-spacing="3.5"
+    fill="#c8dcff"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >AI &amp; ML ENGINEER  |  FULL-STACK DEVELOPER  |  BACKEND ARCHITECT</text>
+</svg>
