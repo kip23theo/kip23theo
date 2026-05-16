@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,50:1a3a8f,100:0d2a6b&height=160&text=CRISPIN%20THEOPHANE&fontSize=56&fontColor=ffffff&fontAlignY=55&fontAlign=50&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=15&descColor=c8d8ff&descAlignY=78&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a3a8f,100:0d2a6b&height=220&section=header&text=CRISPIN%20THEOPHANE&fontSize=55&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ARCHITECT&descSize=15&descColor=c8d8ff&descAlignY=65&descAlign=50&animation=fadeIn"/>
 
 <!-- TYPING LINE -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=FastAPI+%7C+Django+%7C+React+%7C+OpenVINO+%7C+PostgreSQL;Intel+Unnati+%7C+TCS+BFSI+Garage+%7C+Emertxe;Building+AI-Powered+Products+%26+Intelligent+Systems;2%C3%97+Hackathon+Winner+%7C+Google+Gemini+Ambassador)](https://git.io/typing-svg)
@@ -63,10 +63,11 @@ I enjoy building AI-driven applications, scalable backend systems, and analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c&theme=dark&perline=8"/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark&perline=8"/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express&theme=dark&perline=8"/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,aws,git,github&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css&theme=dark&perline=8"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,redis,docker&theme=dark&perline=8"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,mysql,postman,vscode&theme=dark&perline=8"/>
 
 </div>
 
