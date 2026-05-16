@@ -111,12 +111,7 @@ I enjoy building AI-driven applications, scalable backend systems, and analytics
 
 > Shortlist of projects I want visitors and recruiters to see first.
 
-<div align="center">
 
-[![Career Copilot](https://github-readme-stats.vercel.app/api/pin/?username=kip23theo&repo=career-copilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&border_radius=8)](https://github.com/kip23theo)
-[![Order Fulfillment](https://github-readme-stats.vercel.app/api/pin/?username=kip23theo&repo=order-fulfillment-platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&border_radius=8)](https://github.com/kip23theo)
-
-</div>
 
 **🤖 Career Copilot** — ATS resume analysis · skill gap detection · personalised roadmaps · FastAPI + MongoDB + React
 
