@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:0d2144,70:0e3a6e,100:0a7a8a&height=220&section=header&text=CRISPIN%20THEOPHANE&fontSize=62&fontColor=ffffff&fontAlignY=48&fontAlign=50&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ARCHITECT&descSize=15&descColor=c8dcff&descAlignY=68&descAlign=50&animation=fadeIn"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,100:0a7a8a&height=220&text=CRISPIN%20THEOPHANE&fontSize=60&fontColor=fff&fontAlignY=45&desc=AI%20%26%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descColor=c8dcff&descSize=16&descAlignY=65&animation=fadeIn)
 
 <br/>
 
