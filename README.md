@@ -1,16 +1,26 @@
 <div align="center">
 
-<img width="100%" src="./assets/terminal-header.svg" alt="Crispin Theophane terminal dashboard header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=CRISPIN%20THEOPHANE&fontColor=E6EDF3&fontSize=42&fontAlign=50&fontAlignY=42&desc=%3E%20AI%2FML%20Engineer%20in%20Training%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=16&descAlign=50&descAlignY=70" alt="Crispin Theophane terminal header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=21C776&center=true&vCenter=true&width=900&lines=%3E+booting+ai_product_engineer.profile;%3E+building+production-ready+AI+platforms;%3E+shipping+FastAPI+%2B+Django+%2B+React+systems;%3E+optimizing+ML+workflows+from+model+to+deployment" alt="Terminal typing animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%3E%20Building%20AI-powered%20products%20from%20model%20to%20market_&fontColor=21C776&fontSize=22&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Terminal tagline" />
 
-<br />
 <br />
 
 <a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CRISPIN.THEOFFICIAL%40GMAIL.COM-21C776?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>
 <a href="https://github.com/kip23theo?tab=followers"><img src="https://img.shields.io/github/followers/kip23theo?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D&labelColor=161B22" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=kip23theo&style=for-the-badge&color=21C776&label=PROFILE%20VIEWS" alt="Profile views" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Python-21C776?style=flat-square&labelColor=161B22&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-21C776?style=flat-square&labelColor=161B22&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-21C776?style=flat-square&labelColor=161B22&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&labelColor=161B22&logo=fastapi&logoColor=21C776" />
+<img src="https://img.shields.io/badge/Django-161B22?style=flat-square&labelColor=161B22&logo=django&logoColor=21C776" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&labelColor=161B22&logo=postgresql&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&labelColor=161B22&logo=docker&logoColor=58A6FF" />
 
 </div>
 
