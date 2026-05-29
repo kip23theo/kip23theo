@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:102A43,100:00C2A8&text=CRISPIN%20THEOPHANE&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=F8FAFC&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,45:12324A,100:00C2A8&text=AI%20Systems%20%26%20Full-Stack%20Engineering&fontAlign=50&fontAlignY=36&fontSize=44&fontColor=F8FAFC&desc=Crispin%20Theophane%20%7C%20Building%20production-ready%20AI%20products%2C%20backend%20platforms%2C%20and%20analytics%20systems&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" />
+
+<h1 align="center">Crispin Theophane</h1>
+
+<h3 align="center">AI/ML Engineer in Training | Full-Stack Developer | Backend-Focused Product Builder</h3>
 
 <a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/Email-crispin.theofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/LinkedIn-Crispin%20Theophane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
