@@ -1,184 +1,148 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:102A43,100:00C2A8&text=CRISPIN%20THEOPHANE&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=F8FAFC&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&text=CRISPIN%20THEOPHANE&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=AI%20and%20ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descColor=ffffff&descSize=16&descAlignY=65&animation=fadeIn)
+<a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/Email-crispin.theofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/LinkedIn-Crispin%20Theophane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/kip23theo?tab=followers"><img src="https://img.shields.io/github/followers/kip23theo?style=for-the-badge&logo=github&label=Followers&color=24292F" /></a>
+<img src="https://komarev.com/ghpvc/?username=kip23theo&style=for-the-badge&color=00C2A8&label=Profile%20Views" />
 
-<br/>
+<br />
+<br />
 
-<!-- SKILLS LINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=28&lines=Python+%7C+FastAPI+%7C+Django+%7C+React+%7C+PostgreSQL;OpenVINO+%7C+scikit-learn+%7C+MongoDB+%7C+Redis+%7C+Docker)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- STATS + CONTACT ROW -->
-[![followers](https://img.shields.io/github/followers/kip23theo?label=FOLLOWERS&style=flat&logo=github&logoColor=white&labelColor=21262d&color=21262d)](https://github.com/kip23theo?tab=followers)
-[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkip23theo&query=public_repos&label=REPOS&style=flat&logo=github&logoColor=white&labelColor=21262d&color=1a3a8f)](https://github.com/kip23theo?tab=repositories)
-[![Gmail](https://img.shields.io/badge/Gmail-EMAIL-f78166?style=flat&logo=gmail&logoColor=white&labelColor=21262d)](mailto:crispin.theofficial@gmail.com)
-[![Contact](https://img.shields.io/badge/-CONTACT%20ME-0d9488?style=flat&logoColor=white)](mailto:crispin.theofficial@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=kip23theo&style=flat&color=a371f7&label=PROFILE+VIEWS&labelColor=21262d)](https://github.com/kip23theo)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-58a6ff?style=flat&logo=linkedin&logoColor=white&labelColor=21262d)](https://www.linkedin.com/in/crispin-theophane)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00C2A8&center=true&vCenter=true&width=880&lines=Building+AI-powered+products+from+model+to+market;FastAPI+%7C+Django+%7C+React+%7C+PostgreSQL+%7C+OpenVINO;RAG+systems+%7C+ML+deployment+%7C+backend+architecture" alt="Typing animation" />
 
 </div>
 
 ---
 
-## About Me
+## Snapshot
 
-Final-year **B.Tech Electronics & Computer Engineering** student specializing in **AI & ML** at CHRIST University, Bengaluru (GPA: 3.43/4.0 · Graduating May 2027).
+```yaml
+name: Crispin Theophane
+location: Bengaluru, India
+education: B.Tech Electronics & Computer Engineering, CHRIST University
+graduation: May 2027
+gpa: 3.43 / 4.0
+focus:
+  - AI agents and generative AI applications
+  - Production-grade full-stack AI platforms
+  - RAG systems, LLM fine-tuning, and scalable ML deployment
+  - Backend architecture and system design
+currently_building: Career Copilot
+```
 
-I enjoy building AI-driven applications, scalable backend systems, and analytics platforms — from NLP pipelines to enterprise dashboards.
-
-- 📍 Based in Bengaluru, India
-- 🔭 Currently building **Career Copilot** — AI-powered career analytics platform
-- 🧠 Strongest stack: Python, FastAPI, Django, React, PostgreSQL, OpenVINO
-- 🤝 Active in hackathons, IEEE, and open-source collaboration
-
-## Current Focus
-
-- Deepening expertise in **AI Agents** and **Generative AI** applications
-- Building production-grade **full-stack AI products**
-- Exploring **LLM fine-tuning**, RAG systems, and scalable ML deployment
-- Improving system design and **backend architecture** skills
+I build AI-driven applications, scalable backend systems, and analytics platforms. My sweet spot is turning ambiguous product ideas into reliable software: model pipelines, APIs, dashboards, databases, and deployable workflows.
 
 ---
 
-## GitHub Stats
+## Engineering Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kip23theo&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=8"/>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kip23theo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&border_radius=8&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_radius=8"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f3d2a&hide_border=true&radius=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,html,css,django,fastapi,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,mysql,postman,vscode&theme=dark&perline=11" />
 
 </div>
+
+| Domain | Tools and Strengths |
+| --- | --- |
+| AI / ML | Python, scikit-learn, OpenVINO, Pandas, NumPy, NLP, TF-IDF, model evaluation |
+| Backend | FastAPI, Django REST Framework, Node.js, Express, JWT, RBAC, Celery |
+| Frontend | React, Next.js, TypeScript, responsive dashboards, API integration |
+| Data | PostgreSQL, MongoDB, MySQL, Redis, analytics pipelines, KPI reporting |
+| Delivery | Docker, AWS fundamentals, Git, Postman, reproducible deployment workflows |
 
 ---
 
-## Tech Stack
+## Featured Builds
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,react,nextjs,html,css&theme=dark&perline=8"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,redis,docker&theme=dark&perline=8"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,mysql,postman,vscode&theme=dark&perline=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3572a5)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f1e05a)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=e6edf3)
-![Django](https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=3fb950)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=3fb950)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=3fb950)
-![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=f78166)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=1d63ed)
-![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=ff9900)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=f89820)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-161b22?style=flat-square&logo=intel&logoColor=0071c5)
-![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=e6edf3)
-![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=4dabcf)
-![Tableau](https://img.shields.io/badge/Tableau-161b22?style=flat-square&logo=tableau&logoColor=e6edf3)
-![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=ef5b25)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=f05032)
-
-</div>
-
----
-
-## Featured Projects
-
-> Shortlist of projects I want visitors and recruiters to see first.
-
-
-
-**🤖 Career Copilot** — ATS resume analysis · skill gap detection · personalised roadmaps · FastAPI + MongoDB + React
-
-**📦 AI Order Fulfillment Platform** — Intelligent order routing · delay prediction · KPI dashboards · Django + PostgreSQL + Redis + Celery
-
-**🐦 Twitter Sentiment Analysis** — TF-IDF pipeline · 50K+ tweets · Logistic Regression + Naive Bayes · precision/recall/F1
-
-**🧠 Cognitive Games** — Brain-training web platform · progressive difficulty · real-time performance tracking
+| Project | What It Does | Stack | Impact |
+| --- | --- | --- | --- |
+| **Career Copilot** | ATS resume analysis, skill gap detection, personalized learning roadmaps, career analytics | FastAPI, MongoDB, React | AI-first product for career decision support |
+| **AI Order Fulfillment Platform** | Intelligent order routing, delay prediction, KPI dashboards, role-based workflows | Django, PostgreSQL, Redis, Celery | Built for operational visibility and faster fulfillment decisions |
+| **Twitter Sentiment Analysis** | Sentiment classification over 50K+ tweets using classic NLP pipelines | Python, TF-IDF, Logistic Regression, Naive Bayes | Compared precision, recall, and F1 across models |
+| **Cognitive Games** | Brain-training web platform with progressive difficulty and performance tracking | React, backend APIs, analytics | Designed around measurable cognitive progression |
 
 ---
 
 ## Experience
 
-**⚡ Intel Unnati — Project Intern** `May – Jul 2025`
-OpenVINO IR optimisation · **25% CPU inference boost** · latency benchmarking · reproducible AI deployment workflows
-
-**🏦 TCS BFSI Garage — Developer Intern** `Apr – May 2026`
-AI-powered order fulfillment · Django REST APIs · PostgreSQL + Redis + Celery · KPI dashboards · RBAC auth
-
-**🌐 Emertxe — Full Stack Developer Intern** `Dec 2025 – Feb 2026`
-Node.js + Express REST APIs · JWT auth · MongoDB · frontend-backend integration
+| Role | Timeline | Work |
+| --- | --- | --- |
+| **Developer Intern, TCS BFSI Garage** | Apr 2026 - May 2026 | Built AI-powered order fulfillment workflows, Django REST APIs, PostgreSQL/Redis/Celery services, KPI dashboards, and RBAC authentication. |
+| **Full Stack Developer Intern, Emertxe** | Dec 2025 - Feb 2026 | Developed Node.js and Express REST APIs, JWT authentication, MongoDB integrations, and frontend-backend connectivity. |
+| **Project Intern, Intel Unnati** | May 2025 - Jul 2025 | Optimized OpenVINO IR workflows, benchmarked model latency, and achieved a 25% CPU inference performance boost. |
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Intelligence
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kip23theo&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kip23theo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2A8&icon_color=FFB86B&text_color=E6EDF3&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kip23theo&theme=dark&hide_border=true&background=0D1117&ring=00C2A8&fire=FFB86B&currStreakLabel=00C2A8&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=E6EDF3&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kip23theo&theme=github_dark&utcOffset=5.5" />
+
+<br />
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0D1117&color=E6EDF3&line=00C2A8&point=FFB86B&area=true&area_color=102A43&hide_border=true&radius=8" />
 
 </div>
 
 ---
 
-## Certifications
+## Credentials
 
-| | Certification | Issuer |
-|:---:|:---|:---:|
-| ☁️ | Cloud Foundations | AWS Academy |
-| 🤖 | Generative AI Foundations | AWS Academy |
-| 📊 | Data Science for Engineers | NPTEL |
-| 📈 | Getting Started with Data | IBM |
-| 🧮 | Machine Learning & Deep Learning | MathWorks |
+| Certification | Issuer |
+| --- | --- |
+| Cloud Foundations | AWS Academy |
+| Generative AI Foundations | AWS Academy |
+| Data Science for Engineers | NPTEL |
+| Getting Started with Data | IBM |
+| Machine Learning & Deep Learning | MathWorks |
 
 ---
 
-## Achievements
+## Recognition
 
-🏅 Google Gemini Student Ambassador &nbsp;·&nbsp; 🏅 IEEE Leadership Contributor &nbsp;·&nbsp; 🥇 2× Hackathon Winner &nbsp;·&nbsp; 🇮🇳 Smart India Hackathon &nbsp;·&nbsp; 💻 CODEX Participant
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kip23theo&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+| Area | Highlights |
+| --- | --- |
+| Leadership | Google Gemini Student Ambassador, IEEE Leadership Contributor |
+| Competitions | 2x Hackathon Winner, Smart India Hackathon participant |
+| Community | Open-source collaboration, CODEX participant, hackathon contributor |
 
 ---
 
 ## Open To
 
-- Internship opportunities in AI/ML or full-stack development
-- Software development & backend engineering roles
-- Hackathon collaborations and startup product projects
-- Open-source contributions in AI and backend systems
-
----
+```txt
+AI/ML internships              Full-stack engineering roles
+Backend development            Hackathon and startup product builds
+Open-source AI projects        Research-to-product collaborations
+```
 
 <div align="center">
 
-<sub>📍 Bengaluru, India &nbsp;·&nbsp; 📬 crispin.theofficial@gmail.com &nbsp;·&nbsp; <i>Building intelligent systems, one commit at a time.</i></sub>
+### Let's build systems that are intelligent, useful, and production-ready.
 
-<br/><br/>
+<a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20Conversation-00C2A8?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2A8,45:102A43,100:0D1117" />
 
 </div>
