@@ -1,26 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=CRISPIN%20THEOPHANE&fontColor=E6EDF3&fontSize=42&fontAlign=50&fontAlignY=42&desc=%3E%20AI%2FML%20Engineer%20in%20Training%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=16&descAlign=50&descAlignY=70" alt="Crispin Theophane terminal header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=155&color=0D1117&text=CRISPIN%20THEOPHANE&fontColor=E6EDF3&fontSize=48&fontAlign=50&fontAlignY=38&desc=%3E%20AI%2FML%20Engineer%20in%20Training%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=17&descAlign=50&descAlignY=66" alt="Crispin Theophane" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%3E%20Building%20AI-powered%20products%20from%20model%20to%20market_&fontColor=21C776&fontSize=22&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Terminal tagline" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=850&color=21C776&center=true&vCenter=true&width=1200&height=85&lines=%3E+Building+AI-powered+products+from+model+to+market_;%3E+Designing+backend+systems+that+scale_;%3E+Shipping+FastAPI+%2B+Django+%2B+React+platforms_;%3E+Exploring+AI+agents%2C+RAG%2C+and+ML+deployment_" alt="Terminal typing banner" />
 
-<br />
+<p>
+  <a href="mailto:crispin.theofficial@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CRISPIN.THEOFFICIAL%40GMAIL.COM-21C776?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/crispin-theophane">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kip23theo?tab=followers">
+    <img src="https://img.shields.io/github/followers/kip23theo?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D&labelColor=161B22" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kip23theo&style=for-the-badge&color=21C776&label=PROFILE%20VIEWS" alt="Profile views" />
+</p>
 
-<a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CRISPIN.THEOFFICIAL%40GMAIL.COM-21C776?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>
-<a href="https://github.com/kip23theo?tab=followers"><img src="https://img.shields.io/github/followers/kip23theo?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D&labelColor=161B22" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=kip23theo&style=for-the-badge&color=21C776&label=PROFILE%20VIEWS" alt="Profile views" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Python-21C776?style=flat-square&labelColor=161B22&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-21C776?style=flat-square&labelColor=161B22&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-21C776?style=flat-square&labelColor=161B22&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&labelColor=161B22&logo=fastapi&logoColor=21C776" />
-<img src="https://img.shields.io/badge/Django-161B22?style=flat-square&labelColor=161B22&logo=django&logoColor=21C776" />
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&labelColor=161B22&logo=postgresql&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&labelColor=161B22&logo=docker&logoColor=58A6FF" />
+<p>
+  <img src="https://img.shields.io/badge/Python-21C776?style=flat-square&labelColor=161B22&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-21C776?style=flat-square&labelColor=161B22&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-21C776?style=flat-square&labelColor=161B22&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&labelColor=161B22&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&labelColor=161B22&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F0B429?style=flat-square&labelColor=161B22&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-F0B429?style=flat-square&labelColor=161B22&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-58A6FF?style=flat-square&labelColor=161B22&logo=docker&logoColor=white" />
+</p>
 
 </div>
 
@@ -28,34 +34,66 @@
 
 ## `SYSTEM.IDENTITY`
 
-```txt
-USER        Crispin Theophane
-LOCATION    Bengaluru, India
-ROLE        AI/ML Engineer in Training | Full-Stack Developer
-EDUCATION   B.Tech Electronics & Computer Engineering, CHRIST University
-GRADUATION  May 2027
-GPA         3.43 / 4.0
-STATUS      Building Career Copilot
+```yaml
+user: Crispin Theophane
+location: Bengaluru, India
+role: AI/ML Engineer in Training | Full-Stack Developer
+education: B.Tech Electronics & Computer Engineering, CHRIST University
+graduation: May 2027
+gpa: 3.43 / 4.0
+current_build: Career Copilot
+operating_mode: product-first, backend-aware, analytics-driven
 ```
 
 ```txt
-MISSION     Build intelligent products that move cleanly from model experiments
-            to reliable APIs, usable dashboards, and production workflows.
+MISSION
+Build intelligent systems that move cleanly from model experiments
+to reliable APIs, usable dashboards, and production workflows.
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_AGENTS-21C776?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-58A6FF?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-F0B429?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/ML_DEPLOYMENT-21C776?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/FULL_STACK_PRODUCTS-58A6FF?style=flat-square&labelColor=161B22" />
+| `AI_AGENTS` | `RAG_SYSTEMS` | `BACKEND_ARCHITECTURE` | `ML_DEPLOYMENT` | `FULL_STACK_PRODUCTS` |
+| --- | --- | --- | --- | --- |
+| Building | Exploring | Improving | Optimizing | Shipping |
 
 </div>
 
 ---
 
-## `CORE.STACK`
+## `ENGINEERING.CONSOLE`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### `runtime.profile`
+
+```txt
+LANGUAGE_CORE   Python, JavaScript, TypeScript, C
+BACKEND_CORE    FastAPI, Django REST Framework, Node.js, Express
+FRONTEND_CORE   React, Next.js, HTML, CSS
+DATA_LAYER      PostgreSQL, MongoDB, MySQL, Redis
+AI_LAYER        scikit-learn, OpenVINO, Pandas, NumPy, NLP
+DELIVERY        Docker, Git, Postman, AWS foundations
+```
+
+  </td>
+  <td width="50%" valign="top">
+
+### `focus.queue`
+
+```txt
+01  AI agents for practical workflows
+02  Retrieval-augmented generation systems
+03  Production-grade full-stack AI products
+04  Backend architecture and system design
+05  Scalable ML inference and deployment
+```
+
+  </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -63,38 +101,88 @@ MISSION     Build intelligent products that move cleanly from model experiments
 
 </div>
 
-| Layer | Primary Tools | Signal |
-| --- | --- | --- |
-| `AI_ML` | Python, scikit-learn, OpenVINO, Pandas, NumPy, NLP | Model pipelines, benchmarking, evaluation |
-| `API_BACKEND` | FastAPI, Django REST Framework, Node.js, Express | Auth, RBAC, services, async workflows |
-| `FRONTEND` | React, Next.js, TypeScript | Dashboards, product flows, API integration |
-| `DATA_SYSTEMS` | PostgreSQL, MongoDB, MySQL, Redis | Storage design, caching, analytics |
-| `DELIVERY` | Docker, AWS fundamentals, Git, Postman | Reproducible builds and deployment workflows |
+---
+
+## `BUILD.PIPELINE`
+
+```mermaid
+flowchart LR
+    A["Problem Discovery"] --> B["Data + Workflow Mapping"]
+    B --> C["Model / API Prototype"]
+    C --> D["Backend Service Layer"]
+    D --> E["Dashboard + UX"]
+    E --> F["Metrics + Iteration"]
+    F --> G["Deployable Product"]
+```
 
 ---
 
 ## `PROJECTS.FEATURED`
 
-| Project | Mode | Stack | Output |
-| --- | --- | --- | --- |
-| `career-copilot` | AI career analytics platform | FastAPI, MongoDB, React | ATS analysis, skill gap detection, personalized roadmaps |
-| `ai-order-fulfillment` | Operations intelligence system | Django, PostgreSQL, Redis, Celery | Order routing, delay prediction, KPI dashboards, RBAC |
-| `twitter-sentiment-analysis` | NLP classification pipeline | Python, TF-IDF, Logistic Regression, Naive Bayes | 50K+ tweet analysis with precision/recall/F1 comparison |
-| `cognitive-games` | Brain-training web platform | React, APIs, analytics | Progressive difficulty and real-time performance tracking |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### `career-copilot`
 
 ```txt
-BUILD_STYLE  product-first | backend-aware | analytics-driven | deployment-minded
+TYPE      AI career analytics platform
+STACK     FastAPI, MongoDB, React
+FEATURES  ATS analysis, skill gaps, roadmaps
+STATUS    Active build
 ```
+
+  </td>
+  <td width="50%" valign="top">
+
+### `ai-order-fulfillment`
+
+```txt
+TYPE      Operations intelligence system
+STACK     Django, PostgreSQL, Redis, Celery
+FEATURES  Routing, delay prediction, KPI dashboards, RBAC
+STATUS    Internship product build
+```
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### `twitter-sentiment-analysis`
+
+```txt
+TYPE      NLP classification pipeline
+STACK     Python, TF-IDF, Logistic Regression, Naive Bayes
+DATA      50K+ tweets
+METRICS   Precision, recall, F1
+```
+
+  </td>
+  <td width="50%" valign="top">
+
+### `cognitive-games`
+
+```txt
+TYPE      Brain-training web platform
+STACK     React, APIs, analytics
+FEATURES  Progressive difficulty, performance tracking
+GOAL      Measurable cognitive progression
+```
+
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## `EXPERIENCE.LOG`
 
-| Runtime | Position | Execution Trace |
+| Runtime | Node | Execution Trace |
 | --- | --- | --- |
-| `Apr 2026 - May 2026` | Developer Intern, TCS BFSI Garage | Built AI-powered fulfillment flows, Django REST APIs, PostgreSQL/Redis/Celery services, KPI dashboards, and RBAC authentication. |
-| `Dec 2025 - Feb 2026` | Full Stack Developer Intern, Emertxe | Developed Node.js/Express APIs, JWT auth, MongoDB integrations, and frontend-backend connectivity. |
-| `May 2025 - Jul 2025` | Project Intern, Intel Unnati | Optimized OpenVINO IR workflows, benchmarked latency, and achieved a 25% CPU inference performance boost. |
+| `Apr 2026 - May 2026` | `TCS BFSI Garage / Developer Intern` | Built AI-powered fulfillment flows, Django REST APIs, PostgreSQL/Redis/Celery services, KPI dashboards, and RBAC authentication. |
+| `Dec 2025 - Feb 2026` | `Emertxe / Full Stack Developer Intern` | Developed Node.js and Express APIs, JWT auth, MongoDB integrations, and frontend-backend connectivity. |
+| `May 2025 - Jul 2025` | `Intel Unnati / Project Intern` | Optimized OpenVINO IR workflows, benchmarked latency, and achieved a 25% CPU inference performance boost. |
 
 ---
 
@@ -165,8 +253,12 @@ BUILD_STYLE  product-first | backend-aware | analytics-driven | deployment-minde
 <br />
 <br />
 
-<a href="mailto:crispin.theofficial@gmail.com"><img src="https://img.shields.io/badge/INITIATE_CONTACT-21C776?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email Crispin" /></a>
-<a href="https://www.linkedin.com/in/crispin-theophane"><img src="https://img.shields.io/badge/LINKEDIN_HANDSHAKE-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="Connect on LinkedIn" /></a>
+<a href="mailto:crispin.theofficial@gmail.com">
+  <img src="https://img.shields.io/badge/INITIATE_CONTACT-21C776?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email Crispin" />
+</a>
+<a href="https://www.linkedin.com/in/crispin-theophane">
+  <img src="https://img.shields.io/badge/LINKEDIN_HANDSHAKE-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="Connect on LinkedIn" />
+</a>
 
 <br />
 <br />
