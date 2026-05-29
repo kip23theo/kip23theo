@@ -4,18 +4,17 @@
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=850&color=21C776&center=true&vCenter=true&width=1200&height=85&lines=%3E+Building+AI-powered+products+from+model+to+market_;%3E+Designing+backend+systems+that+scale_;%3E+Shipping+FastAPI+%2B+Django+%2B+React+platforms_;%3E+Exploring+AI+agents%2C+RAG%2C+and+ML+deployment_" alt="Terminal typing banner" />
 
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img width="210" src="https://github.com/kip23theo.png" alt="Crispin Theophane GitHub profile image" />
-      <br />
-      <sub><b>~/kip23theo/README.md</b></sub>
-    </td>
-    <td width="66%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kip23theo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&icon_color=F0B429&text_color=E6EDF3&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub dashboard stats" />
-    </td>
-  </tr>
-</table>
+<img width="180" src="https://github.com/kip23theo.png" alt="Crispin Theophane profile image" />
+
+```txt
+~/kip23theo/README.md
+
+PROFILE     Crispin Theophane
+ROLE        AI/ML Engineer in Training | Full-Stack Developer
+BUILDING    Career Copilot
+STACK       Python | FastAPI | Django | React | PostgreSQL | OpenVINO
+STATUS      Active
+```
 
 <p>
   <a href="mailto:crispin.theofficial@gmail.com">
@@ -31,10 +30,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-21C776?style=flat-square&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/FOCUS-AI_PRODUCTS-58A6FF?style=flat-square&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-F0B429?style=flat-square&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/LOCATION-BENGALURU-21C776?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-21C776?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_PRODUCTS-58A6FF?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-F0B429?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/LOCATION-BENGALURU-21C776?style=for-the-badge&labelColor=161B22" />
 </p>
 
 </div>
@@ -42,10 +41,6 @@
 ---
 
 ## `COMMAND.CENTER`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ### `system.identity`
 
@@ -60,9 +55,6 @@ gpa: 3.43 / 4.0
 current_build: Career Copilot
 ```
 
-  </td>
-  <td width="50%" valign="top">
-
 ### `mission.statement`
 
 ```txt
@@ -73,10 +65,6 @@ usable dashboards, and production workflows.
 Primary style:
 product-first | backend-aware | analytics-driven
 ```
-
-  </td>
-  </tr>
-</table>
 
 <div align="center">
 
