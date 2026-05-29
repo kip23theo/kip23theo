@@ -1,20 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0D1117&text=CRISPIN%20THEOPHANE&fontColor=E6EDF3&fontSize=52&fontAlign=50&fontAlignY=38&desc=%3E%20AI%2FML%20Engineer%20in%20Training%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Systems%20Builder&descSize=17&descAlign=50&descAlignY=66" alt="Crispin Theophane dashboard header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=205&color=0D1117&text=CRISPIN%20THEOPHANE&fontColor=E6EDF3&fontSize=58&fontAlign=50&fontAlignY=34&desc=AI%20SYSTEMS%20%7C%20FULL-STACK%20ENGINEERING%20%7C%20BACKEND%20PLATFORMS&descSize=18&descAlign=50&descAlignY=58" alt="Crispin Theophane advanced GitHub header" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=850&color=21C776&center=true&vCenter=true&width=1200&height=85&lines=%3E+Building+AI-powered+products+from+model+to+market_;%3E+Designing+backend+systems+that+scale_;%3E+Shipping+FastAPI+%2B+Django+%2B+React+platforms_;%3E+Exploring+AI+agents%2C+RAG%2C+and+ML+deployment_" alt="Terminal typing banner" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2600&pause=850&color=21C776&center=true&vCenter=true&width=1100&height=70&lines=%3E+Building+AI-powered+products+from+model+to+market_;%3E+Engineering+FastAPI+%2B+Django+%2B+React+systems_;%3E+Designing+RAG%2C+agents%2C+and+ML+deployment+pipelines_" alt="Terminal typing banner" />
 
-<img width="180" src="https://github.com/kip23theo.png" alt="Crispin Theophane profile image" />
+<h3>AI/ML Engineer in Training | Full-Stack Developer | Product-Focused Backend Builder</h3>
 
-```txt
-~/kip23theo/README.md
-
-PROFILE     Crispin Theophane
-ROLE        AI/ML Engineer in Training | Full-Stack Developer
-BUILDING    Career Copilot
-STACK       Python | FastAPI | Django | React | PostgreSQL | OpenVINO
-STATUS      Active
-```
+<p>
+  <img src="https://img.shields.io/badge/BUILDING-CAREER_COPILOT-21C776?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/SPECIALTY-AI_BACKEND_SYSTEMS-58A6FF?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/BASE-BENGALURU_INDIA-F0B429?style=for-the-badge&labelColor=161B22" />
+</p>
 
 <p>
   <a href="mailto:crispin.theofficial@gmail.com">
