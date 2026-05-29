@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:0D1117,40:161B22,75:102A43,100:21C776&text=CRISPIN%20THEOPHANE&fontAlign=50&fontAlignY=34&fontSize=56&fontColor=E6EDF3&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20SYSTEMS%20BUILDER&descAlign=50&descAlignY=55&descSize=16&animation=fadeIn" alt="Crispin Theophane header" />
+<img width="100%" src="./assets/terminal-header.svg" alt="Crispin Theophane terminal dashboard header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=21C776&center=true&vCenter=true&width=900&lines=%3E+booting+ai_product_engineer.profile;%3E+building+production-ready+AI+platforms;%3E+shipping+FastAPI+%2B+Django+%2B+React+systems;%3E+optimizing+ML+workflows+from+model+to+deployment" alt="Terminal typing animation" />
 
