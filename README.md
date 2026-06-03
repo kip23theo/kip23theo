@@ -36,6 +36,33 @@
 
 ---
 
+## `GITHUB.TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=kip23theo&theme=dark&hide_border=true&background=0D1117&ring=21C776&fire=F0B429&currStreakLabel=21C776&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&text_color=E6EDF3&langs_count=8" alt="Top languages" />
+
+<br />
+<br />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kip23theo&theme=github_dark" alt="Profile details" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kip23theo&theme=github_dark" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kip23theo&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+
+<br />
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0D1117&color=E6EDF3&line=21C776&point=58A6FF&area=true&area_color=102A43&hide_border=true&radius=8" alt="Activity graph" />
+
+</div>
+
+---
+
 ## `COMMAND.CENTER`
 
 ### `system.identity`
@@ -201,33 +228,6 @@ FEATURES  progressive difficulty
 | `Apr 2026 - May 2026` | `TCS BFSI Garage / Developer Intern` | Built AI-powered fulfillment workflows, Django REST APIs, PostgreSQL/Redis/Celery services, KPI dashboards, and RBAC authentication. |
 | `Dec 2025 - Feb 2026` | `Emertxe / Full Stack Developer Intern` | Developed Node.js and Express APIs, JWT auth, MongoDB integrations, and frontend-backend connectivity. |
 | `May 2025 - Jul 2025` | `Intel Unnati / Project Intern` | Optimized OpenVINO IR workflows, benchmarked latency, and achieved a 25% CPU inference performance boost. |
-
----
-
-## `GITHUB.TELEMETRY`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kip23theo&theme=dark&hide_border=true&background=0D1117&ring=21C776&fire=F0B429&currStreakLabel=21C776&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&text_color=E6EDF3&langs_count=8" alt="Top languages" />
-
-<br />
-<br />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kip23theo&theme=github_dark" alt="Profile details" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kip23theo&theme=github_dark" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kip23theo&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-
-<br />
-<br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0D1117&color=E6EDF3&line=21C776&point=58A6FF&area=true&area_color=102A43&hide_border=true&radius=8" alt="Activity graph" />
-
-</div>
 
 ---
 
