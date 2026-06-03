@@ -40,24 +40,49 @@
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=kip23theo&theme=dark&hide_border=true&background=0D1117&ring=21C776&fire=F0B429&currStreakLabel=21C776&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&text_color=E6EDF3&langs_count=8" alt="Top languages" />
+<!-- FIX 1: streak URL replaced | FIX 6: wrapped in anchor tag -->
+<a href="https://github.com/kip23theo">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=kip23theo&theme=dark&hide_border=true&background=0D1117&ring=21C776&fire=F0B429&currStreakLabel=21C776&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
+</a>
+<!-- FIX 3: main stats card added | FIX 2: cache_seconds=1800 | FIX 6: wrapped in anchor tag -->
+<a href="https://github.com/kip23theo">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kip23theo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&text_color=E6EDF3&icon_color=58A6FF&cache_seconds=1800" alt="GitHub stats" />
+</a>
 
 <br />
 <br />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kip23theo&theme=github_dark" alt="Profile details" />
+<!-- FIX 2: cache_seconds=1800 | FIX 6: wrapped in anchor tag -->
+<a href="https://github.com/kip23theo">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kip23theo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21C776&text_color=E6EDF3&langs_count=8&cache_seconds=1800" alt="Top languages" />
+</a>
 
 <br />
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kip23theo&theme=github_dark" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kip23theo&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+<!-- FIX 6: wrapped in anchor tag -->
+<a href="https://github.com/kip23theo">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kip23theo&theme=github_dark" alt="Profile details" />
+</a>
 
 <br />
 <br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0D1117&color=E6EDF3&line=21C776&point=58A6FF&area=true&area_color=102A43&hide_border=true&radius=8" alt="Activity graph" />
+<!-- FIX 6: wrapped in anchor tags -->
+<a href="https://github.com/kip23theo">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kip23theo&theme=github_dark" alt="Repos per language" />
+</a>
+<a href="https://github.com/kip23theo">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kip23theo&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</a>
+
+<br />
+<br />
+
+<!-- FIX 6: wrapped in anchor tag -->
+<a href="https://github.com/kip23theo">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kip23theo&bg_color=0D1117&color=E6EDF3&line=21C776&point=58A6FF&area=true&area_color=102A43&hide_border=true&radius=8" alt="Activity graph" />
+</a>
 
 </div>
 
@@ -120,7 +145,8 @@ product-first | backend-aware | analytics-driven
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,react,nextjs,html,css,django,fastapi,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,mysql,postman,vscode&theme=dark&perline=11" alt="Tech stack icons" />
+<!-- FIX 7: replaced 'c' with 'linux' (sklearn not supported by skillicons) -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,linux,react,nextjs,html,css,django,fastapi,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,mysql,postman,vscode&theme=dark&perline=11" alt="Tech stack icons" />
 
 </div>
 
@@ -186,6 +212,7 @@ FEATURES  intelligent routing
           delay prediction
           KPI dashboards
           RBAC authentication
+STATUS    Completed
 ```
 
   </td>
@@ -260,7 +287,8 @@ FEATURES  progressive difficulty
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kip23theo&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<!-- FIX 4: trophy column reduced from 7 to 6 -->
+<img src="https://github-profile-trophy.vercel.app/?username=kip23theo&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
